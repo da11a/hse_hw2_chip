@@ -51,3 +51,7 @@
 <img width="457" alt="image" src="https://user-images.githubusercontent.com/67833171/156907272-d627a50c-7cf5-4958-89ee-f1930edebbb2.png">
 
 **Для bam файла https://www.encodeproject.org/files/ENCFF722HLJ/**
+
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/67833171/156929181-4d1453d3-8d79-4f6c-bf25-b798eaba7f8c.png">
+
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/67833171/156929197-a27d3e4c-2bc5-47ac-9779-d3d833eaefed.png">
