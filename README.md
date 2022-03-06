@@ -1,5 +1,7 @@
 # hse_hw2_chip
 
+### Ссылка на google colab: https://colab.research.google.com/drive/19GJBfi7sAHjZDg0NtEXVp1z7ZgzqNR4V?usp=sharing
+
 ## FastQC-файлы:
 Для всех трех образцов файлы получились достаточно хорошими, в том числе, не требуется фильтрация или подрезание чтений, так как всё находится в пределах нормы. Ниже представлены некоторые скриншоты выдачи (полные файлы возможно посмотреть в соответсвующей папке репозитория)
 
@@ -37,3 +39,13 @@
 ## Таблица со статистикой по чтениям:
 <img width="860" alt="image" src="https://user-images.githubusercontent.com/67833171/156904909-15032b47-cd93-4ee7-a334-3bcd092e113a.png">
 
+## Бонус:
+**Для bam файла https://www.encodeproject.org/files/ENCFF889MWV/** 
+
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/67833171/156907252-788aa831-7ff2-42cd-b7f9-71f919374bec.png">
+
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/67833171/156907284-e7b99316-9dbb-443b-9f9a-04732927f369.png">
+
+<img width="457" alt="image" src="https://user-images.githubusercontent.com/67833171/156907272-d627a50c-7cf5-4958-89ee-f1930edebbb2.png">
+
+**Для bam файла https://www.encodeproject.org/files/ENCFF722HLJ/**
