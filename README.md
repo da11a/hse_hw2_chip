@@ -40,9 +40,11 @@
 <img width="860" alt="image" src="https://user-images.githubusercontent.com/67833171/156904909-15032b47-cd93-4ee7-a334-3bcd092e113a.png">
 
 ## Бонус:
-**Для bam файла https://www.encodeproject.org/files/ENCFF889MWV/** 
+**Здесь рассматривается гистоновая метка H3K4me3:**
 
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/67833171/156907252-788aa831-7ff2-42cd-b7f9-71f919374bec.png">
+
+**Для bam файла https://www.encodeproject.org/files/ENCFF889MWV/** 
 
 <img width="439" alt="image" src="https://user-images.githubusercontent.com/67833171/156907284-e7b99316-9dbb-443b-9f9a-04732927f369.png">
 
